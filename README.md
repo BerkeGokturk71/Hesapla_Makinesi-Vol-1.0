@@ -1,4 +1,4 @@
-# Hesapla_Makinesi-Vol-1.0
+# Hesapla_Makinesi-Vol-1.0.1
 İlk geliştirdiğim detaylı hesap makinem    Kötekli /Muğla 16.09.2022
 
 Hot Fixes 1.0.1
